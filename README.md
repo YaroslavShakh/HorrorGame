@@ -1,17 +1,17 @@
 # HorrorGame
 
 Current project in work
-Done
-o	Advanced movement
-o	Interfaces
-o	Resident Evil like inventory system
-o	Interacteble Locks
-o	A lot of UI
-o	Cutscenes
-o	World objectives
-In future
-o Builded levels, 
-o Advanced AI for horror game, 
-o Hiding features 
-o Quality light
-o Improved sounds of game.
+Done:
+	Advanced movement,
+	Interfaces,
+	Resident Evil like inventory system,
+	Interacteble Locks,
+	A lot of UI,
+	Cutscene,
+	World objectives.
+In future:
+ Builded levels, 
+ Advanced AI for horror game, 
+ Hiding features, 
+ Quality light,
+ Improved sounds of game.
